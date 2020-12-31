@@ -2,7 +2,7 @@
 #include <SPI.h>
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
-//#include <Adafruit_Sen sor.h>
+//#include <Adafruit_Sensor.h>
 #include <SimpleTimer.h>
 #include <DHT.h>
 
